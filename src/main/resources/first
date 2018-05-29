@@ -1,3 +1,4 @@
 function first(a,b){
     let a = "In first Commit"
+    let b = "In second commit"
 }
